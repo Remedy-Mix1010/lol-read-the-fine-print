@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+    font-size: medium;
+    font-family: 'Yuji Syuku', serif;
+    text-align: center;
+}
+img{
+    border: dotted;
+}
+#lol{
+    font-size: 3px;
+}
